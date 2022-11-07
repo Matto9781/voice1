@@ -1,0 +1,5 @@
+<Response>
+<Say voice="alice">Thank you for calling my toll free phone number,</Say>
+<Pause length="1"/>
+<Say voice="alice">this call will know disconnect</Say>
+</Response>
